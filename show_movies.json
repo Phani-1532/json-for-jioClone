@@ -1,0 +1,504 @@
+{
+    "movies": [
+        {
+            "title": "The Dark Knight",
+            "description": "A movie about a man who is a superhero",
+            "language": "English",
+            "director": "Christopher Nolan",
+            "genre": "Action, Crime, Drama",
+            "featured": true,
+            "rating": 8.5,
+            "top_rated": true,
+            "duration": "2 hours 32 minutes",
+            "release_date": "2008-07-18",
+            "cast": [
+                "Christian Bale, Heath Ledger, Aaron Eckhart"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwNDAyMTk2MzM@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+            "country": "United States",
+            "id": 1
+        },
+        {
+            "title": "Spirited Away",
+            "description": "A young girl enters the spirit world and must work to free her parents",
+            "language": "Japanese",
+            "director": "Hayao Miyazaki",
+            "genre": "Animation, Fantasy, Adventure",
+            "featured": true,
+            "rating": 8.6,
+            "top_rated": true,
+            "duration": "2 hours 5 minutes",
+            "release_date": "2001-07-20",
+            "cast": [
+                "Rumi Hiiragi, Miyu Irino, Mari Natsuki"
+            ],
+            "image_url": "https://example.com/spirited-away.jpg",
+            "trailer_url": "https://youtube.com/spirited-away",
+            "country": "Japan",
+            "id": 2
+        },
+        {
+            "title": "Dangal",
+            "description": "Former wrestler trains his daughters to become world-class wrestlers",
+            "language": "Hindi",
+            "director": "Nitesh Tiwari",
+            "genre": "Biography, Drama, Sport",
+            "featured": false,
+            "rating": 8.4,
+            "top_rated": true,
+            "duration": "2 hours 41 minutes",
+            "release_date": "2016-12-21",
+            "cast": [
+                "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh"
+            ],
+            "image_url": "https://example.com/dangal.jpg",
+            "trailer_url": "https://youtube.com/dangal",
+            "country": "India",
+            "id": 3
+        },
+        {
+            "title": "Parasite",
+            "description": "Greed and class discrimination threaten a newly formed symbiotic relationship",
+            "language": "Korean",
+            "director": "Bong Joon-ho",
+            "genre": "Comedy, Drama, Thriller",
+            "featured": true,
+            "rating": 8.5,
+            "top_rated": true,
+            "duration": "2 hours 12 minutes",
+            "release_date": "2019-05-21",
+            "cast": [
+                "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong"
+            ],
+            "image_url": "https://example.com/parasite.jpg",
+            "trailer_url": "https://youtube.com/parasite",
+            "country": "South Korea",
+            "id": 4
+        },
+        {
+            "title": "Crouching Tiger, Hidden Dragon",
+            "language": "Mandarin",
+            "genre": "Action, Adventure, Fantasy",
+            "country": "China",
+            "id": 5
+        },
+        {
+            "title": "Amélie",
+            "language": "French",
+            "genre": "Comedy, Romance",
+            "country": "France",
+            "id": 6
+        },
+        {
+            "title": "Your Name",
+            "language": "Japanese",
+            "genre": "Animation, Drama, Fantasy",
+            "country": "Japan",
+            "id": 7
+        },
+        {
+            "title": "Roma",
+            "language": "Spanish",
+            "genre": "Drama",
+            "country": "Mexico",
+            "id": 8
+        },
+        {
+            "title": "The Raid: Redemption",
+            "language": "Indonesian",
+            "genre": "Action, Crime, Thriller",
+            "country": "Indonesia",
+            "id": 9
+        },
+        {
+            "title": "Pan's Labyrinth",
+            "language": "Spanish",
+            "genre": "Drama, Fantasy, War",
+            "country": "Spain",
+            "id": 10
+        },
+        {
+            "title": "Baahubali: The Beginning",
+            "description": "A warrior rescues a queen and discovers his royal lineage",
+            "language": "Telugu",
+            "director": "S.S. Rajamouli",
+            "genre": "Action, Drama, Fantasy",
+            "featured": true,
+            "rating": 8.2,
+            "top_rated": true,
+            "duration": "2 hours 39 minutes",
+            "release_date": "2015-07-10",
+            "cast": [
+                "Prabhas, Rana Daggubati, Anushka Shetty"
+            ],
+            "image_url": "https://example.com/baahubali1.jpg",
+            "trailer_url": "https://youtube.com/baahubali1",
+            "country": "India",
+            "id": 11
+        },
+        {
+            "title": "3 Idiots",
+            "description": "Two friends search for their long-lost college companion",
+            "language": "Hindi",
+            "director": "Rajkumar Hirani",
+            "genre": "Comedy, Drama",
+            "featured": true,
+            "rating": 8.4,
+            "top_rated": true,
+            "duration": "2 hours 50 minutes",
+            "release_date": "2009-12-25",
+            "cast": [
+                "Aamir Khan, R. Madhavan, Sharman Joshi"
+            ],
+            "image_url": "https://example.com/3idiots.jpg",
+            "trailer_url": "https://youtube.com/3idiots",
+            "country": "India",
+            "id": 12
+        },
+        {
+            "title": "Arjun Reddy",
+            "description": "A self-destructive surgeon's journey through love and loss",
+            "language": "Telugu",
+            "director": "Sandeep Reddy Vanga",
+            "genre": "Drama, Romance",
+            "featured": false,
+            "rating": 7.9,
+            "duration": "3 hours 2 minutes",
+            "release_date": "2017-08-25",
+            "cast": [
+                "Vijay Deverakonda, Shalini Pandey"
+            ],
+            "image_url": "https://example.com/arjunreddy.jpg",
+            "trailer_url": "https://youtube.com/arjunreddy",
+            "country": "India",
+            "id": 13
+        },
+        {
+            "title": "Dhoom",
+            "description": "A cop teams up with a thief to catch a motorcycle gang",
+            "language": "Hindi",
+            "director": "Sanjay Gadhvi",
+            "genre": "Action, Crime, Thriller",
+            "featured": true,
+            "rating": 6.8,
+            "duration": "2 hours 15 minutes",
+            "release_date": "2004-08-27",
+            "cast": [
+                "Abhishek Bachchan, John Abraham, Uday Chopra"
+            ],
+            "image_url": "https://example.com/dhoom.jpg",
+            "trailer_url": "https://youtube.com/dhoom",
+            "country": "India",
+            "id": 14
+        },
+        {
+            "title": "RRR",
+            "language": "Telugu",
+            "director": "S.S. Rajamouli",
+            "genre": "Action, Drama, History",
+            "country": "India",
+            "id": 15
+        },
+        {
+            "title": "Kabhi Khushi Kabhie Gham",
+            "language": "Hindi",
+            "genre": "Drama, Family, Musical",
+            "country": "India",
+            "id": 16
+        },
+        {
+            "title": "Pushpa: The Rise",
+            "language": "Telugu",
+            "genre": "Action, Crime, Drama",
+            "country": "India",
+            "id": 17
+        },
+        {
+            "title": "Lagaan",
+            "description": "Farmers challenge British rulers to a cricket match to avoid taxes",
+            "language": "Hindi",
+            "director": "Ashutosh Gowariker",
+            "genre": "Drama, Musical, Sport",
+            "featured": true,
+            "rating": 8.1,
+            "top_rated": true,
+            "duration": "3 hours 44 minutes",
+            "release_date": "2001-06-15",
+            "cast": [
+                "Aamir Khan, Gracy Singh, Rachel Shelley"
+            ],
+            "image_url": "https://example.com/lagaan.jpg",
+            "trailer_url": "https://youtube.com/lagaan",
+            "country": "India",
+            "id": 18
+        },
+        {
+            "title": "Ala Vaikunthapurramuloo",
+            "language": "Telugu",
+            "genre": "Action, Comedy, Drama",
+            "country": "India",
+            "id": 19
+        },
+        {
+            "title": "Gully Boy",
+            "language": "Hindi",
+            "genre": "Drama, Music, Romance",
+            "country": "India",
+            "id": 20
+        },
+        {
+            "title": "Magadheera",
+            "language": "Telugu",
+            "genre": "Action, Fantasy, Romance",
+            "country": "India",
+            "id": 21
+        },
+        {
+            "title": "Chennai Express",
+            "language": "Hindi",
+            "genre": "Action, Comedy, Romance",
+            "country": "India",
+            "id": 22
+        },
+        {
+            "title": "Srimanthudu",
+            "language": "Telugu",
+            "genre": "Action, Drama",
+            "country": "India",
+            "id": 23
+        },
+        {
+            "title": "Bajrangi Bhaijaan",
+            "language": "Hindi",
+            "genre": "Drama, Action, Adventure",
+            "country": "India",
+            "id": 24
+        },
+        {
+            "title": "Eega",
+            "language": "Telugu",
+            "genre": "Action, Fantasy, Thriller",
+            "country": "India",
+            "id": 25
+        },
+        {
+            "title": "Padmaavat",
+            "language": "Hindi",
+            "genre": "Drama, History, Romance",
+            "country": "India",
+            "id": 26
+        },
+        {
+            "title": "Jersey",
+            "language": "Telugu",
+            "genre": "Drama, Sport",
+            "country": "India",
+            "id": 27
+        },
+        {
+            "title": "Uri: The Surgical Strike",
+            "language": "Hindi",
+            "genre": "Action, Drama, War",
+            "country": "India",
+            "id": 28
+        },
+        {
+            "title": "Bharat Ane Nenu",
+            "language": "Telugu",
+            "genre": "Drama, Political",
+            "country": "India",
+            "id": 29
+        },
+        {
+            "title": "Andhadhun",
+            "language": "Hindi",
+            "genre": "Crime, Thriller, Comedy",
+            "country": "India",
+            "id": 30
+        },
+        {
+            "title": "Mad Max: Fury Road",
+            "description": "A post-apocalyptic action film featuring intense vehicular warfare",
+            "language": "English",
+            "director": "George Miller",
+            "genre": "Action, Adventure, Sci-Fi",
+            "featured": true,
+            "rating": 8.1,
+            "top_rated": true,
+            "duration": "2 hours",
+            "release_date": "2015-05-15",
+            "cast": [
+                "Tom Hardy, Charlize Theron, Nicholas Hoult"
+            ],
+            "image_url": "https://example.com/madmax.jpg",
+            "trailer_url": "https://youtube.com/madmax",
+            "country": "Australia",
+            "id": 31
+        },
+        {
+            "title": "The Raid 2",
+            "description": "Undercover cop infiltrates a criminal organization through non-stop martial arts action",
+            "language": "Indonesian",
+            "director": "Gareth Evans",
+            "genre": "Action, Crime, Thriller",
+            "featured": true,
+            "rating": 8.0,
+            "top_rated": true,
+            "duration": "2 hours 30 minutes",
+            "release_date": "2014-03-28",
+            "cast": [
+                "Iko Uwais, Yayan Ruhian, Arifin Putra"
+            ],
+            "image_url": "https://example.com/raid2.jpg",
+            "trailer_url": "https://youtube.com/raid2",
+            "country": "Indonesia",
+            "id": 32
+        },
+        {
+            "title": "Attack on Titan: The Final Season",
+            "description": "Humanity's last stand against giant humanoid creatures",
+            "language": "Japanese",
+            "director": "Yuichiro Hayashi",
+            "genre": "Animation, Action, Fantasy",
+            "featured": true,
+            "rating": 8.8,
+            "top_rated": true,
+            "duration": "1 hour 24 minutes",
+            "release_date": "2020-12-07",
+            "cast": [
+                "Yuki Kaji, Yui Ishikawa, Marina Inoue"
+            ],
+            "image_url": "https://example.com/aot.jpg",
+            "trailer_url": "https://youtube.com/aot",
+            "country": "Japan",
+            "id": 33
+        },
+        {
+            "title": "John Wick: Chapter 4",
+            "description": "Legendary hitman faces new adversaries in global locations",
+            "language": "English",
+            "director": "Chad Stahelski",
+            "genre": "Action, Crime, Thriller",
+            "featured": true,
+            "rating": 7.9,
+            "duration": "2 hours 49 minutes",
+            "release_date": "2023-03-24",
+            "cast": [
+                "Keanu Reeves, Donnie Yen, Bill Skarsgård"
+            ],
+            "image_url": "https://example.com/johnwick4.jpg",
+            "trailer_url": "https://youtube.com/johnwick4",
+            "country": "United States",
+            "id": 34
+        },
+        {
+            "title": "Ninja Scroll",
+            "description": "Rogue ninja battles supernatural forces in feudal Japan",
+            "language": "Japanese",
+            "director": "Yoshiaki Kawajiri",
+            "genre": "Animation, Action, Fantasy",
+            "featured": false,
+            "rating": 7.9,
+            "duration": "1 hour 34 minutes",
+            "release_date": "1993-06-05",
+            "cast": [
+                "Kōichi Yamadera, Emi Shinohara, Takeshi Aono"
+            ],
+            "image_url": "https://example.com/ninjascroll.jpg",
+            "trailer_url": "https://youtube.com/ninjascroll",
+            "country": "Japan",
+            "id": 35
+        },
+        {
+            "title": "The Night Comes for Us",
+            "description": "Gangland enforcer protects a young girl amidst brutal Triad warfare",
+            "language": "Indonesian",
+            "director": "Timo Tjahjanto",
+            "genre": "Action, Crime, Thriller",
+            "featured": true,
+            "rating": 7.1,
+            "duration": "2 hours 1 minute",
+            "release_date": "2018-10-19",
+            "cast": [
+                "Iko Uwais, Joe Taslim, Julie Estelle"
+            ],
+            "image_url": "https://example.com/nightcomes.jpg",
+            "trailer_url": "https://youtube.com/nightcomes",
+            "country": "Indonesia",
+            "id": 36
+        },
+        {
+            "title": "Dragon Ball Super: Broly",
+            "description": "Legendary Saiyan warriors clash in explosive battles",
+            "language": "Japanese",
+            "director": "Tatsuya Nagamine",
+            "genre": "Animation, Action, Adventure",
+            "featured": true,
+            "rating": 7.9,
+            "duration": "1 hour 40 minutes",
+            "release_date": "2018-12-14",
+            "cast": [
+                "Masako Nozawa, Ryō Horikawa, Bin Shimada"
+            ],
+            "image_url": "https://example.com/dbsbroly.jpg",
+            "trailer_url": "https://youtube.com/dbsbroly",
+            "country": "Japan",
+            "id": 37
+        },
+        {
+            "title": "The Villainess",
+            "description": "Female assassin seeks revenge through breathtaking action sequences",
+            "language": "Korean",
+            "director": "Jung Byung-gil",
+            "genre": "Action, Crime, Drama",
+            "featured": false,
+            "rating": 6.7,
+            "duration": "2 hours 3 minutes",
+            "release_date": "2017-06-08",
+            "cast": [
+                "Kim Ok-bin, Shin Ha-kyun, Sung Joon"
+            ],
+            "image_url": "https://example.com/villainess.jpg",
+            "trailer_url": "https://youtube.com/villainess",
+            "country": "South Korea",
+            "id": 38
+        },
+        {
+            "title": "Extraction",
+            "description": "Mercenary embarks on deadly mission to save a drug lord's kidnapped son",
+            "language": "English",
+            "director": "Sam Hargrave",
+            "genre": "Action, Thriller",
+            "featured": true,
+            "rating": 6.7,
+            "duration": "1 hour 57 minutes",
+            "release_date": "2020-04-24",
+            "cast": [
+                "Chris Hemsworth, Rudhraksh Jaiswal, Golshifteh Farahani"
+            ],
+            "image_url": "https://example.com/extraction.jpg",
+            "trailer_url": "https://youtube.com/extraction",
+            "country": "United States",
+            "id": 39
+        },
+        {
+            "title": "Rurouni Kenshin: The Final",
+            "description": "Legendary swordsman confronts his past in climactic battles",
+            "language": "Japanese",
+            "director": "Keishi Ōtomo",
+            "genre": "Action, Drama, History",
+            "featured": true,
+            "rating": 7.9,
+            "duration": "2 hours 18 minutes",
+            "release_date": "2021-04-23",
+            "cast": [
+                "Takeru Satoh, Mackenyu, Emi Takei"
+            ],
+            "image_url": "https://example.com/rurouni.jpg",
+            "trailer_url": "https://youtube.com/rurouni",
+            "country": "Japan",
+            "id": 40
+        }
+    ]
+}
