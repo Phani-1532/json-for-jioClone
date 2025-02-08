@@ -520,6 +520,63 @@
             "trailer_url": "https://youtube.com/rurouni",
             "country": "Japan",
             "id": 40
+        },
+        {
+            "title": "One Piece Film: Red",
+            "description": "The Straw Hat Pirates encounter the world's greatest singer Uta on her first live concert",
+            "language": "Japanese",
+            "director": "Gorō Taniguchi",
+            "genre": "Animation, Action, Adventure",
+            "featured": true,
+            "rating": 8.7,
+            "top_rated": true,
+            "duration": "1 hour 55 minutes",
+            "release_date": "2022-08-06",
+            "cast": [
+                "Mayumi Tanaka, Kazuya Nakai, Akemi Okamura"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3OTQ4ZGUtN2M1YS00ZmI5LWEwMTYtZDA5YzFjMjI0ODU0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+            "trailer_url": "https://youtu.be/89JWRYEIGjY",
+            "country": "Japan",
+            "id": 41
+        },
+        {
+            "title": "Naruto: The Last",
+            "description": "Naruto Uzumaki faces his greatest challenge to prevent the moon's collision with Earth",
+            "language": "Japanese",
+            "director": "Masashi Kishimoto",
+            "genre": "Animation, Action, Romance",
+            "featured": true,
+            "rating": 8.3,
+            "top_rated": true,
+            "duration": "1 hour 49 minutes",
+            "release_date": "2014-12-06",
+            "cast": [
+                "Junko Takeuchi, Nana Mizuki, Chie Nakamura"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0ODc3NTE2N15BMl5BanBnXkFtZTgwMjA0MjQ5MzE@._V1_.jpg",
+            "trailer_url": "https://youtu.be/tA3yE4s5h2Y",
+            "country": "Japan",
+            "id": 42
+        },
+        {
+            "title": "Solo Leveling: Arise",
+            "description": "Weakest hunter Sung Jin-Woo enters a mysterious dungeon that changes his destiny forever",
+            "language": "Japanese",
+            "director": "Shunsuke Nakashige",
+            "genre": "Animation, Action, Fantasy",
+            "featured": true,
+            "rating": 9.1,
+            "top_rated": true,
+            "duration": "24 minutes",
+            "release_date": "2024-01-07",
+            "cast": [
+                "Taito Ban, Aleks Le, Genta Nakamura"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZjA0MWYwZTEtYzc5Yi00ZmFiLWIwOTUtNjI4NmNhNTQxYWYwXkEyXkFqcGdeQXVyMTUzMTg1NzM0._V1_FMjpg_UX1000_.jpg",
+            "trailer_url": "https://youtu.be/vTv-Mvq4wCw",
+            "country": "Japan",
+            "id": 43
         }
     ]
 }
