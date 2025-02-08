@@ -169,7 +169,7 @@
             "cast": [
                 "Vijay Deverakonda, Shalini Pandey"
             ],
-            "image_url": "https://example.com/arjunreddy.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/8j9F8gWCg2p5nC7Y8jF1LZfC5Y9.jpg",
             "trailer_url": "https://youtube.com/arjunreddy",
             "country": "India",
             "id": 13
@@ -187,7 +187,7 @@
             "cast": [
                 "Abhishek Bachchan, John Abraham, Uday Chopra"
             ],
-            "image_url": "https://example.com/dhoom.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/1X4h45bT9zvc7eIDEM3QeLZ2gQa.jpg",
             "trailer_url": "https://youtube.com/dhoom",
             "country": "India",
             "id": 14
@@ -405,7 +405,7 @@
             "cast": [
                 "Kōichi Yamadera, Emi Shinohara, Takeshi Aono"
             ],
-            "image_url": "https://example.com/ninjascroll.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/5c09qBoGpJQqAdJQ1Q6KPLqk4K3.jpg",
             "trailer_url": "https://youtube.com/ninjascroll",
             "country": "Japan",
             "id": 35
@@ -423,7 +423,7 @@
             "cast": [
                 "Iko Uwais, Joe Taslim, Julie Estelle"
             ],
-            "image_url": "https://example.com/nightcomes.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/1X4h45bT9zvc7eIDEM3QeLZ2gQa.jpg",
             "trailer_url": "https://youtube.com/nightcomes",
             "country": "Indonesia",
             "id": 36
@@ -441,7 +441,7 @@
             "cast": [
                 "Masako Nozawa, Ryō Horikawa, Bin Shimada"
             ],
-            "image_url": "https://example.com/dbsbroly.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/5c09qBoGpJQqAdJQ1Q6KPLqk4K3.jpg",
             "trailer_url": "https://youtube.com/dbsbroly",
             "country": "Japan",
             "id": 37
@@ -459,7 +459,7 @@
             "cast": [
                 "Kim Ok-bin, Shin Ha-kyun, Sung Joon"
             ],
-            "image_url": "https://example.com/villainess.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/1X4h45bT9zvc7eIDEM3QeLZ2gQa.jpg",
             "trailer_url": "https://youtube.com/villainess",
             "country": "South Korea",
             "id": 38
@@ -477,7 +477,7 @@
             "cast": [
                 "Chris Hemsworth, Rudhraksh Jaiswal, Golshifteh Farahani"
             ],
-            "image_url": "https://example.com/extraction.jpg",
+            "image_url": "https://image.tmdb.org/t/p/original/5c09qBoGpJQqAdJQ1Q6KPLqk4K3.jpg",
             "trailer_url": "https://youtube.com/extraction",
             "country": "United States",
             "id": 39
