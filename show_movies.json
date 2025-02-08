@@ -80,6 +80,7 @@
             "title": "Crouching Tiger, Hidden Dragon",
             "language": "Mandarin",
             "genre": "Action, Adventure, Fantasy",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0NDU2OTI3OV5BMl5BanBnXkFtZTcwNDUyMjAzMQ@@._V1_.jpg",
             "country": "China",
             "id": 5
         },
@@ -87,6 +88,7 @@
             "title": "Amélie",
             "language": "French",
             "genre": "Comedy, Romance",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
             "country": "France",
             "id": 6
         },
@@ -94,6 +96,7 @@
             "title": "Your Name",
             "language": "Japanese",
             "genre": "Animation, Drama, Fantasy",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZhDI5ZjczMTJXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
             "country": "Japan",
             "id": 7
         },
@@ -101,6 +104,7 @@
             "title": "Roma",
             "language": "Spanish",
             "genre": "Drama",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_.jpg",
             "country": "Mexico",
             "id": 8
         },
@@ -108,6 +112,7 @@
             "title": "The Raid: Redemption",
             "language": "Indonesian",
             "genre": "Action, Crime, Thriller",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNGQwZGU4N2YtM2RhYS00YzUwLWFkNDQtMmI2OGFmY2E3N2IwXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_.jpg",
             "country": "Indonesia",
             "id": 9
         },
@@ -115,6 +120,7 @@
             "title": "Pan's Labyrinth",
             "language": "Spanish",
             "genre": "Drama, Fantasy, War",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_.jpg",
             "country": "Spain",
             "id": 10
         },
@@ -197,6 +203,7 @@
             "language": "Telugu",
             "director": "S.S. Rajamouli",
             "genre": "Action, Drama, History",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
             "country": "India",
             "id": 15
         },
@@ -204,6 +211,7 @@
             "title": "Kabhi Khushi Kabhie Gham",
             "language": "Hindi",
             "genre": "Drama, Family, Musical",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDI2YjAwMjctZTNkNi00YzZhLWFjZTktMTE2YTJmYTk4ZjgwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
             "country": "India",
             "id": 16
         },
@@ -211,6 +219,7 @@
             "title": "Pushpa: The Rise",
             "language": "Telugu",
             "genre": "Action, Crime, Drama",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTc0YWM0MTQtY2FkNC00ZGIzLWEwZWMtODQ5YjExOGE2N2Q0XkEyXkFqcGdeQXVyMTQyOTM4MDc@._V1_.jpg",
             "country": "India",
             "id": 17
         },
@@ -237,6 +246,7 @@
             "title": "Ala Vaikunthapurramuloo",
             "language": "Telugu",
             "genre": "Action, Comedy, Drama",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZGE1M2Q3YjktY2Q5MC00YjQyLTg0YjktOWFlYjFjYzQ0YjQ0XkEyXkFqcGdeQXVyMTQyOTM4MDc@._V1_.jpg",
             "country": "India",
             "id": 19
         },
@@ -244,6 +254,7 @@
             "title": "Gully Boy",
             "language": "Hindi",
             "genre": "Drama, Music, Romance",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOGY0MzVlMmItM2IyOS00MmI2LWIzNTctZDA0ZmFkYTAwZDVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
             "country": "India",
             "id": 20
         },
@@ -251,6 +262,7 @@
             "title": "Magadheera",
             "language": "Telugu",
             "genre": "Action, Fantasy, Romance",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTc1MzY3MV5BMl5BanBnXkFtZTgwMDU3NDg0MDE@._V1_.jpg",
             "country": "India",
             "id": 21
         },
@@ -258,6 +270,7 @@
             "title": "Chennai Express",
             "language": "Hindi",
             "genre": "Action, Comedy, Romance",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1YmE5M2UtZTAyYS00ODhlLThkMjItOTU2MDAzZTMwYjYyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
             "country": "India",
             "id": 22
         },
@@ -265,6 +278,7 @@
             "title": "Srimanthudu",
             "language": "Telugu",
             "genre": "Action, Drama",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDI5YjA0MmQtZGU2Yi00YjliLWIzODUtYTNlYjJmMGFmMjYwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg",
             "country": "India",
             "id": 23
         },
@@ -272,6 +286,7 @@
             "title": "Bajrangi Bhaijaan",
             "language": "Hindi",
             "genre": "Drama, Action, Adventure",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI5NzMzNV5BMl5BanBnXkFtZTgwNzkyOTk5NjE@._V1_.jpg",
             "country": "India",
             "id": 24
         },
@@ -279,6 +294,7 @@
             "title": "Eega",
             "language": "Telugu",
             "genre": "Action, Fantasy, Thriller",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ0NDgxMjQ2OF5BMl5BanBnXkFtZTgwNDkyOTk5NjE@._V1_.jpg",
             "country": "India",
             "id": 25
         },
@@ -286,6 +302,7 @@
             "title": "Padmaavat",
             "language": "Hindi",
             "genre": "Drama, History, Romance",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDY4ODA5NzQwMF5BMl5BanBnXkFtZTgwNTk1Mzk5NjM@._V1_.jpg",
             "country": "India",
             "id": 26
         },
@@ -293,6 +310,7 @@
             "title": "Jersey",
             "language": "Telugu",
             "genre": "Drama, Sport",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDA0YjUyY2MtOGQ2ZC00OTUwLTliMDYtNWVmOTBmNDFkZTg0XkEyXkFqcGdeQXVyMTQyOTM4MDc@._V1_.jpg",
             "country": "India",
             "id": 27
         },
@@ -300,6 +318,7 @@
             "title": "Uri: The Surgical Strike",
             "language": "Hindi",
             "genre": "Action, Drama, War",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOGFlNGQ4YTAtYTA3Yy00YzNlLWEwOTgtZDE2MzY5MGMzYmQ0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
             "country": "India",
             "id": 28
         },
@@ -307,6 +326,7 @@
             "title": "Bharat Ane Nenu",
             "language": "Telugu",
             "genre": "Drama, Political",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDA0YjUyY2MtOGQ2ZC00OTUwLTliMDYtNWVmOTBmNDFkZTg0XkEyXkFqcGdeQXVyMTQyOTM4MDc@._V1_.jpg",
             "country": "India",
             "id": 29
         },
@@ -314,6 +334,7 @@
             "title": "Andhadhun",
             "language": "Hindi",
             "genre": "Crime, Thriller, Comedy",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
             "country": "India",
             "id": 30
         },
