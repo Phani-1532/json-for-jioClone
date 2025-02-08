@@ -14,7 +14,7 @@
             "cast": [
                 "Christian Bale, Heath Ledger, Aaron Eckhart"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwNDAyMTk2MzM@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+            "image_url": "https://m.media-amazon.com/images/I/81IfoBox2TL.jpg",
             "trailer_url": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
             "country": "United States",
             "id": 1
@@ -33,7 +33,7 @@
             "cast": [
                 "Rumi Hiiragi, Miyu Irino, Mari Natsuki"
             ],
-            "image_url": "https://example.com/spirited-away.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
             "trailer_url": "https://youtube.com/spirited-away",
             "country": "Japan",
             "id": 2
@@ -52,7 +52,7 @@
             "cast": [
                 "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh"
             ],
-            "image_url": "https://example.com/dangal.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MjQ1MzExM15BMl5BanBnXkFtZTgwOTQ4MjQ1MzI@._V1_.jpg",
             "trailer_url": "https://youtube.com/dangal",
             "country": "India",
             "id": 3
@@ -71,7 +71,7 @@
             "cast": [
                 "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong"
             ],
-            "image_url": "https://example.com/parasite.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
             "trailer_url": "https://youtube.com/parasite",
             "country": "South Korea",
             "id": 4
@@ -132,7 +132,7 @@
             "cast": [
                 "Prabhas, Rana Daggubati, Anushka Shetty"
             ],
-            "image_url": "https://example.com/baahubali1.jpg",
+            "image_url": "https://preview.redd.it/baahubali-is-peak-telugu-sound-track-also-baahubalis-poster-v0-5hniit60j9mc1.png?width=640&crop=smart&auto=webp&s=4763df609f33cb1ecd96bff705fe637b03b55601",
             "trailer_url": "https://youtube.com/baahubali1",
             "country": "India",
             "id": 11
@@ -151,7 +151,7 @@
             "cast": [
                 "Aamir Khan, R. Madhavan, Sharman Joshi"
             ],
-            "image_url": "https://example.com/3idiots.jpg",
+            "image_url": "https://www.tallengestore.com/cdn/shop/products/3_Idiots_35dfe421-8426-4556-b410-c033ccedd460.jpg?v=1582192744",
             "trailer_url": "https://youtube.com/3idiots",
             "country": "India",
             "id": 12
@@ -228,7 +228,7 @@
             "cast": [
                 "Aamir Khan, Gracy Singh, Rachel Shelley"
             ],
-            "image_url": "https://example.com/lagaan.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
             "trailer_url": "https://youtube.com/lagaan",
             "country": "India",
             "id": 18
@@ -331,7 +331,7 @@
             "cast": [
                 "Tom Hardy, Charlize Theron, Nicholas Hoult"
             ],
-            "image_url": "https://example.com/madmax.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
             "trailer_url": "https://youtube.com/madmax",
             "country": "Australia",
             "id": 31
@@ -350,7 +350,7 @@
             "cast": [
                 "Iko Uwais, Yayan Ruhian, Arifin Putra"
             ],
-            "image_url": "https://example.com/raid2.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5ODk0ODUyOV5BMl5BanBnXkFtZTgwMDE5MTk0MTE@._V1_.jpg",
             "trailer_url": "https://youtube.com/raid2",
             "country": "Indonesia",
             "id": 32
@@ -369,7 +369,7 @@
             "cast": [
                 "Yuki Kaji, Yui Ishikawa, Marina Inoue"
             ],
-            "image_url": "https://example.com/aot.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_.jpg",
             "trailer_url": "https://youtube.com/aot",
             "country": "Japan",
             "id": 33
@@ -387,7 +387,7 @@
             "cast": [
                 "Keanu Reeves, Donnie Yen, Bill Skarsgård"
             ],
-            "image_url": "https://example.com/johnwick4.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjZmZiOWE4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
             "trailer_url": "https://youtube.com/johnwick4",
             "country": "United States",
             "id": 34
@@ -495,7 +495,7 @@
             "cast": [
                 "Takeru Satoh, Mackenyu, Emi Takei"
             ],
-            "image_url": "https://example.com/rurouni.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BODg0MWNmNTktYjljZi00YzUyLWI0MjYtZmNlNDA2Y2U4Mzc0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
             "trailer_url": "https://youtube.com/rurouni",
             "country": "Japan",
             "id": 40
