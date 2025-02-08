@@ -254,7 +254,7 @@
             "title": "Gully Boy",
             "language": "Hindi",
             "genre": "Drama, Music, Romance",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BOGY0MzVlMmItM2IyOS00MmI2LWIzNTctZDA0ZmFkYTAwZDVkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZDA0YjUyY2MtOGQ2ZC00OTUwLTliMDYtNWVmOTBmNDFkZTg0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
             "country": "India",
             "id": 20
         },
@@ -462,7 +462,7 @@
             "cast": [
                 "Masako Nozawa, Ryō Horikawa, Bin Shimada"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMjhhMDU5Y2QtMzcyZS00ZGE1LTg3ZjMtMTljYjNmMjZkMjk0XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTkzNjU4NDc2MF5BMl5BanBnXkFtZTgwNTg0MjA1MjI@._V1_FMjpg_UX1000_.jpg",
             "trailer_url": "https://youtube.com/dbsbroly",
             "country": "Japan",
             "id": 37
@@ -535,7 +535,7 @@
             "cast": [
                 "Mayumi Tanaka, Kazuya Nakai, Akemi Okamura"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3OTQ4ZGUtN2M1YS00ZmI5LWEwMTYtZDA5YzFjMjI0ODU0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZmQ3OTQ4ZGUtN2M1YS00ZmFiLWIwOTUtNjI4NmNhNTQxYWYwXkEyXkFqcGdeQXVyMTUzMTg1NzM0._V1_.jpg",
             "trailer_url": "https://youtu.be/89JWRYEIGjY",
             "country": "Japan",
             "id": 41
@@ -577,6 +577,62 @@
             "trailer_url": "https://youtu.be/vTv-Mvq4wCw",
             "country": "Japan",
             "id": 43
+        },
+        {
+            "title": "Shoplifters",
+            "description": "A family of small-time crooks take in a child they find outside in the cold",
+            "language": "Japanese",
+            "director": "Hirokazu Kore-eda",
+            "genre": "Drama, Crime",
+            "featured": true,
+            "rating": 8.0,
+            "top_rated": true,
+            "duration": "2 hours 1 minute",
+            "release_date": "2018-06-08",
+            "cast": [
+                "Lily Franky, Sakura Andō, Mayu Matsuoka"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYWZmOTY0MDAtMGRlMS00YjIzLThlOGYtNDBiNDU2ZWY2ZGY0XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_.jpg",
+            "trailer_url": "https://youtu.be/4A-lpHxYt48",
+            "country": "Japan",
+            "id": 44
+        },
+        {
+            "title": "Battle Royale",
+            "description": "A class of students is forced to fight to the death on a deserted island",
+            "language": "Japanese",
+            "director": "Kinji Fukasaku",
+            "genre": "Action, Drama, Thriller",
+            "featured": true,
+            "rating": 7.6,
+            "duration": "1 hour 54 minutes",
+            "release_date": "2000-12-16",
+            "cast": [
+                "Tatsuya Fujiwara, Aki Maeda, Tarō Yamamoto"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTcwNDE4MjQzMQ@@._V1_.jpg",
+            "trailer_url": "https://youtu.be/N0pI6ReKgGQ",
+            "country": "Japan",
+            "id": 45
+        },
+        {
+            "title": "Departures",
+            "description": "A cellist takes a job preparing the dead for funerals",
+            "language": "Japanese",
+            "director": "Yōjirō Takita",
+            "genre": "Drama, Music",
+            "featured": true,
+            "rating": 8.1,
+            "top_rated": true,
+            "duration": "2 hours 10 minutes",
+            "release_date": "2008-09-13",
+            "cast": [
+                "Masahiro Motoki, Ryōko Hirosue, Tsutomu Yamazaki"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTM0ODM5MTA0N15BMl5BanBnXkFtZTcwNzE2MjgxMg@@._V1_.jpg",
+            "trailer_url": "https://youtu.be/NjD7JvZKu4E",
+            "country": "Japan",
+            "id": 46
         }
     ]
 }
