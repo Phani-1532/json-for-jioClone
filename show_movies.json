@@ -633,6 +633,79 @@
             "trailer_url": "https://youtu.be/NjD7JvZKu4E",
             "country": "Japan",
             "id": 46
+        },
+        {
+            "title": "Hereditary",
+            "description": "A grieving family is haunted by tragic and disturbing occurrences",
+            "language": "English",
+            "director": "Ari Aster",
+            "genre": "Horror, Drama, Mystery",
+            "featured": true,
+            "rating": 7.3,
+            "duration": "2 hours 7 minutes",
+            "release_date": "2018-06-08",
+            "cast": [
+                "Toni Collette, Milly Shapiro, Alex Wolff"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
+            "trailer_url": "https://youtu.be/V6wWKNij_1M",
+            "country": "United States",
+            "id": 47
+        },
+        {
+            "title": "The Invisible Man",
+            "description": "A woman believes she is being stalked by her abusive ex-boyfriend who has become invisible",
+            "language": "English",
+            "director": "Leigh Whannell",
+            "genre": "Horror, Sci-Fi, Thriller",
+            "featured": true,
+            "rating": 7.1,
+            "duration": "2 hours 4 minutes",
+            "release_date": "2020-02-28",
+            "cast": [
+                "Elisabeth Moss, Oliver Jackson-Cohen, Aldis Hodge"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZjFmNDhiY2EtYjE5MS00ZDM3LTllZDItNWU4ZTkwOTNhZjRkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "trailer_url": "https://youtu.be/WO_FJdiY9dA",
+            "country": "United States",
+            "id": 48
+        },
+        {
+            "title": "Game Night",
+            "description": "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery",
+            "language": "English",
+            "director": "John Francis Daley",
+            "genre": "Comedy, Crime, Mystery",
+            "featured": false,
+            "rating": 6.9,
+            "duration": "1 hour 40 minutes",
+            "release_date": "2018-02-23",
+            "cast": [
+                "Jason Bateman, Rachel McAdams, Kyle Chandler"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY0NDM@._V1_.jpg",
+            "trailer_url": "https://youtu.be/qmxMAdV6s4U",
+            "country": "United States",
+            "id": 49
+        },
+        {
+            "title": "Parasite",
+            "description": "Greed and class discrimination threaten a newly formed symbiotic relationship",
+            "language": "Korean",
+            "director": "Bong Joon-ho",
+            "genre": "Comedy, Drama, Thriller",
+            "featured": true,
+            "rating": 8.5,
+            "top_rated": true,
+            "duration": "2 hours 12 minutes",
+            "release_date": "2019-05-21",
+            "cast": [
+                "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+            "trailer_url": "https://youtube.com/parasite",
+            "country": "South Korea",
+            "id": 50
         }
     ]
 }
