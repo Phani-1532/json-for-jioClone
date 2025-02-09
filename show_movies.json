@@ -689,23 +689,186 @@
             "id": 49
         },
         {
-            "title": "Parasite",
-            "description": "Greed and class discrimination threaten a newly formed symbiotic relationship",
-            "language": "Korean",
-            "director": "Bong Joon-ho",
-            "genre": "Comedy, Drama, Thriller",
+            "title": "The Exorcist",
+            "description": "A mother's desperate attempt to save her daughter from demonic possession",
+            "language": "English",
+            "director": "William Friedkin",
+            "genre": "Horror, Drama",
             "featured": true,
-            "rating": 8.5,
+            "rating": 8.0,
             "top_rated": true,
-            "duration": "2 hours 12 minutes",
-            "release_date": "2019-05-21",
+            "duration": "2 hours 2 minutes",
+            "release_date": "1973-12-26",
             "cast": [
-                "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong"
+                "Ellen Burstyn, Max von Sydow, Linda Blair"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
-            "trailer_url": "https://youtube.com/parasite",
-            "country": "South Korea",
-            "id": 50
+            "image_url": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtZjU5N2EzMTA3YTIyXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_.jpg",
+            "trailer_url": "https://youtu.be/YDGw1MTEe3k",
+            "country": "United States",
+            "id": 51
+        },
+        {
+            "title": "The Conjuring",
+            "description": "Paranormal investigators confront a dark presence in a farmhouse",
+            "language": "English",
+            "director": "James Wan",
+            "genre": "Horror, Mystery, Thriller",
+            "featured": true,
+            "rating": 7.5,
+            "duration": "1 hour 52 minutes",
+            "release_date": "2013-07-19",
+            "cast": [
+                "Vera Farmiga, Patrick Wilson, Ron Livingston"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg",
+            "trailer_url": "https://youtu.be/k10ETZ41q5o",
+            "country": "United States",
+            "id": 52
+        },
+        {
+            "title": "Get Out",
+            "description": "A young African-American visits his white girlfriend's parents for the weekend",
+            "language": "English",
+            "director": "Jordan Peele",
+            "genre": "Horror, Mystery, Thriller",
+            "featured": true,
+            "rating": 7.8,
+            "top_rated": true,
+            "duration": "1 hour 44 minutes",
+            "release_date": "2017-02-24",
+            "cast": [
+                "Daniel Kaluuya, Allison Williams, Bradley Whitford"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+            "trailer_url": "https://youtu.be/DZf2RNen0Fg",
+            "country": "United States",
+            "id": 53
+        },
+        {
+            "title": "A Quiet Place",
+            "description": "A family must live in silence to avoid mysterious creatures that hunt by sound",
+            "language": "English",
+            "director": "John Krasinski",
+            "genre": "Horror, Drama, Sci-Fi",
+            "featured": true,
+            "rating": 7.5,
+            "duration": "1 hour 30 minutes",
+            "release_date": "2018-04-06",
+            "cast": [
+                "Emily Blunt, John Krasinski, Millicent Simmonds"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg",
+            "trailer_url": "https://youtu.be/WR7cc5t7tv8",
+            "country": "United States",
+            "id": 54
+        },
+        {
+            "title": "The Babadook",
+            "description": "A single mother and her child fall into a deep well of paranoia when a storybook monster comes to life",
+            "language": "English",
+            "director": "Jennifer Kent",
+            "genre": "Horror, Drama",
+            "featured": true,
+            "rating": 6.8,
+            "duration": "1 hour 34 minutes",
+            "release_date": "2014-05-22",
+            "cast": [
+                "Essie Davis, Noah Wiseman, Daniel Henshall"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwNTM1MDI2MTE@._V1_.jpg",
+            "trailer_url": "https://youtu.be/k5WQZzDRVtw",
+            "country": "Australia",
+            "id": 55
+        },
+        {
+            "title": "It Follows",
+            "description": "A young woman is followed by an unknown supernatural force after a sexual encounter",
+            "language": "English",
+            "director": "David Robert Mitchell",
+            "genre": "Horror, Mystery",
+            "featured": true,
+            "rating": 6.8,
+            "duration": "1 hour 40 minutes",
+            "release_date": "2014-05-17",
+            "cast": [
+                "Maika Monroe, Keir Gilchrist, Olivia Luccardi"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjM4MzgxMjA0Ml5BMl5BanBnXkFtZTgwMjQ0Nzg5NTE@._V1_.jpg",
+            "trailer_url": "https://youtu.be/HkZYbOH0ujw",
+            "country": "United States",
+            "id": 56
+        },
+        {
+            "title": "The Witch",
+            "description": "A Puritan family confronts the forces of evil in their isolated farmstead",
+            "language": "English",
+            "director": "Robert Eggers",
+            "genre": "Horror, Drama, Fantasy",
+            "featured": true,
+            "rating": 7.0,
+            "duration": "1 hour 32 minutes",
+            "release_date": "2015-01-27",
+            "cast": [
+                "Anya Taylor-Joy, Ralph Ineson, Kate Dickie"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_.jpg",
+            "trailer_url": "https://youtu.be/iQXmlf3Sefg",
+            "country": "United States",
+            "id": 57
+        },
+        {
+            "title": "Sinister",
+            "description": "A true-crime writer discovers a box of mysterious home movies that put his family in danger",
+            "language": "English",
+            "director": "Scott Derrickson",
+            "genre": "Horror, Mystery, Thriller",
+            "featured": false,
+            "rating": 6.8,
+            "duration": "1 hour 50 minutes",
+            "release_date": "2012-10-12",
+            "cast": [
+                "Ethan Hawke, Juliet Rylance, James Ransone"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2ODkwOA@@._V1_.jpg",
+            "trailer_url": "https://youtu.be/_kbQAJR9YWQ",
+            "country": "United States",
+            "id": 58
+        },
+        {
+            "title": "Insidious",
+            "description": "A family looks to prevent evil spirits from trapping their comatose child in an astral plane",
+            "language": "English",
+            "director": "James Wan",
+            "genre": "Horror, Mystery, Thriller",
+            "featured": true,
+            "rating": 6.8,
+            "duration": "1 hour 43 minutes",
+            "release_date": "2010-09-14",
+            "cast": [
+                "Patrick Wilson, Rose Byrne, Ty Simpkins"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_.jpg",
+            "trailer_url": "https://youtu.be/zuZnRUcoWos",
+            "country": "United States",
+            "id": 59
+        },
+        {
+            "title": "The Ring",
+            "description": "A journalist investigates a cursed videotape that kills the viewer seven days after watching",
+            "language": "English",
+            "director": "Gore Verbinski",
+            "genre": "Horror, Mystery",
+            "featured": true,
+            "rating": 7.1,
+            "duration": "1 hour 55 minutes",
+            "release_date": "2002-10-18",
+            "cast": [
+                "Naomi Watts, Martin Henderson, Brian Cox"
+            ],
+            "image_url": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE0Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_.jpg",
+            "trailer_url": "https://youtu.be/yzR2GY-ewIg",
+            "country": "United States",
+            "id": 60
         }
     ]
 }
