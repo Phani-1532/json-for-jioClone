@@ -80,7 +80,7 @@
             "title": "Crouching Tiger, Hidden Dragon",
             "language": "Mandarin",
             "genre": "Action, Adventure, Fantasy",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTk0NDU2OTI3OV5BMl5BanBnXkFtZTcwNDUyMjAzMQ@@._V1_.jpg",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzX5XuP0oKtxS69pWbPLsPaSUdDiXgj3og8Q&s",
             "country": "China",
             "id": 5
         },
@@ -112,7 +112,7 @@
             "title": "The Raid: Redemption",
             "language": "Indonesian",
             "genre": "Action, Crime, Thriller",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BNGQwZGU4N2YtM2RhYS00YzUwLWFkNDQtMmI2OGFmY2E3N2IwXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_.jpg",
+            "image_url": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/theraidredemption_onesheet_1400x2100_rated.png?itok=MduTcFKA",
             "country": "Indonesia",
             "id": 9
         },
@@ -270,7 +270,7 @@
             "title": "Chennai Express",
             "language": "Hindi",
             "genre": "Action, Comedy, Romance",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTU1YmE5M2UtZTAyYS00ODhlLThkMjItOTU2MDAzZTMwYjYyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+            "image_url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/films14-306x393.jpg",
             "country": "India",
             "id": 22
         },
@@ -286,7 +286,7 @@
             "title": "Bajrangi Bhaijaan",
             "language": "Hindi",
             "genre": "Drama, Action, Adventure",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDI5NzMzNV5BMl5BanBnXkFtZTgwNzkyOTk5NjE@._V1_.jpg",
+            "image_url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/05/429188525.jpg",
             "country": "India",
             "id": 24
         },
@@ -302,7 +302,7 @@
             "title": "Padmaavat",
             "language": "Hindi",
             "genre": "Drama, History, Romance",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BNDY4ODA5NzQwMF5BMl5BanBnXkFtZTgwNTk1Mzk5NjM@._V1_.jpg",
+            "image_url": "https://images.inuth.com/2017/09/1Deepika-Padukone-will-bewitch-you-with-her-new-Padmavati-poster.jpg",
             "country": "India",
             "id": 26
         },
@@ -318,7 +318,7 @@
             "title": "Uri: The Surgical Strike",
             "language": "Hindi",
             "genre": "Action, Drama, War",
-            "image_url": "https://m.media-amazon.com/images/M/MV5BOGFlNGQ4YTAtYTA3Yy00YzNlLWEwOTgtZDE2MzY5MGMzYmQ0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+            "image_url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2018/09/Uri.jpg",
             "country": "India",
             "id": 28
         },
@@ -480,7 +480,7 @@
             "cast": [
                 "Kim Ok-bin, Shin Ha-kyun, Sung Joon"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTkzNjU4NDc2MF5BMl5BanBnXkFtZTgwNTg0MjA1MjI@._V1_FMjpg_UX1000_.jpg",
+            "image_url": "https://cityonfire.com/wp-content/uploads/2018/02/THE-VILLAINESS-MOT-CREATIVE-2.jpg",
             "trailer_url": "https://youtube.com/villainess",
             "country": "South Korea",
             "id": 38
@@ -683,7 +683,7 @@
             "cast": [
                 "Jason Bateman, Rachel McAdams, Kyle Chandler"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY0NDM@._V1_.jpg",
+            "image_url": "https://m.media-amazon.com/images/I/91VDeLXCvVL._AC_UF1000,1000_QL80_.jpg",
             "trailer_url": "https://youtu.be/qmxMAdV6s4U",
             "country": "United States",
             "id": 49
