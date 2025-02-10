@@ -893,7 +893,7 @@
             "description": "Noble families vie for control of the Iron Throne in the Seven Kingdoms of Westeros.",
             "language": "English",
             "director": "David Benioff, D.B. Weiss",
-            "genre": "Action, Adventure, Drama, TV Series",
+            "genre": "Action, Adventure",
             "featured": true,
             "rating": 9.3,
             "duration": "57 minutes per episode",
@@ -2369,7 +2369,7 @@
             "cast": [
                 "Emilia Clarke, Kit Harington, Peter Dinklage"
             ],
-            "image_url": "https://m.media-amazon.com/images/M/MV5BMTg5NjY5NjY0MF5BMl5BanBnXkFtZTcwNjY5NjY0Mw@@._V1_.jpg",
+            "image_url": "https://i.pinimg.com/564x/bd/e0/ca/bde0ca082337f6a1d47fffab9114cf74.jpg",
             "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
             "country": "United States",
             "id": 158
@@ -3276,6 +3276,15 @@
             "country": "India",
             "id": 206,
             "bhuneswar": true
+        },
+        {
+            "title": "Game of Thrones",
+            "year": 2011,
+            "genre": [
+                "Drama",
+                "Fantasy"
+            ],
+            "rating": 9.3
         }
     ]
 }
