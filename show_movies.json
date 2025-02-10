@@ -1337,6 +1337,348 @@
             "trailer_url": "https://www.youtube.com/watch?v=6P8g0g0g0g0",
             "country": "United States",
             "id": 101
+        },
+        {
+            "title": "India vs Pakistan - 2011 World Cup Semi-Final",
+            "description": "A thrilling encounter between India and Pakistan in the 2011 ICC Cricket World Cup semi-final.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 9.0,
+            "duration": "3 hours",
+            "release_date": "2011-03-30",
+            "cast": [
+                "Sachin Tendulkar, Virat Kohli, Yuvraj Singh"
+            ],
+            "image_url": "https://www.cricketcountry.com/wp-content/uploads/2018/03/India-vs-Pakistan-2011-World-Cup-Semi-Final.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 102
+        },
+        {
+            "title": "India vs Australia - 2020 Test Series",
+            "description": "India's historic Test series win in Australia, showcasing remarkable performances.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.8,
+            "duration": "4 hours",
+            "release_date": "2020-12-17",
+            "cast": [
+                "Ajinkya Rahane, Rishabh Pant, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 103
+        },
+        {
+            "title": "India vs England - 2021 Test Series",
+            "description": "A thrilling Test series between India and England, featuring intense competition.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.5,
+            "duration": "3 hours",
+            "release_date": "2021-08-04",
+            "cast": [
+                "Virat Kohli, Joe Root, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 104
+        },
+        {
+            "title": "India vs New Zealand - 2020 T20 Series",
+            "description": "A high-octane T20 series between India and New Zealand, filled with explosive performances.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.7,
+            "duration": "2 hours",
+            "release_date": "2020-01-24",
+            "cast": [
+                "Rohit Sharma, Kane Williamson, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 105
+        },
+        {
+            "title": "India vs South Africa - 2018 Test Series",
+            "description": "A challenging Test series in South Africa, showcasing India's resilience.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.4,
+            "duration": "3 hours",
+            "release_date": "2018-01-05",
+            "cast": [
+                "Virat Kohli, Faf du Plessis, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 106
+        },
+        {
+            "title": "India vs Sri Lanka - 2018 ODI Series",
+            "description": "An exciting ODI series between India and Sri Lanka, featuring thrilling matches.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.3,
+            "duration": "3 hours",
+            "release_date": "2018-08-10",
+            "cast": [
+                "Virat Kohli, Angelo Mathews, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 107
+        },
+        {
+            "title": "India vs West Indies - 2019 ODI Series",
+            "description": "A thrilling ODI series featuring India and West Indies, showcasing top cricket talent.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.6,
+            "duration": "3 hours",
+            "release_date": "2019-08-08",
+            "cast": [
+                "Virat Kohli, Kieron Pollard, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 108
+        },
+        {
+            "title": "India vs Australia - 2020 T20 Series",
+            "description": "A thrilling T20 series between India and Australia, filled with explosive performances.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.9,
+            "duration": "2 hours",
+            "release_date": "2020-12-04",
+            "cast": [
+                "Virat Kohli, Aaron Finch, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 109
+        },
+        {
+            "title": "India vs England - 2021 T20 Series",
+            "description": "An exciting T20 series between India and England, showcasing thrilling matches.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.5,
+            "duration": "3 hours",
+            "release_date": "2021-03-12",
+            "cast": [
+                "Virat Kohli, Eoin Morgan, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 110
+        },
+        {
+            "title": "India vs New Zealand - 2020 ODI Series",
+            "description": "A thrilling ODI series between India and New Zealand, featuring intense competition.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.4,
+            "duration": "3 hours",
+            "release_date": "2020-01-24",
+            "cast": [
+                "Virat Kohli, Kane Williamson, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 111
+        },
+        {
+            "title": "India vs South Africa - 2018 Test Series",
+            "description": "A challenging Test series in South Africa, showcasing India's resilience.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.3,
+            "duration": "3 hours",
+            "release_date": "2018-01-05",
+            "cast": [
+                "Virat Kohli, Faf du Plessis, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 112
+        },
+        {
+            "title": "India vs Sri Lanka - 2018 ODI Series",
+            "description": "An exciting ODI series between India and Sri Lanka, featuring thrilling matches.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.2,
+            "duration": "3 hours",
+            "release_date": "2018-08-10",
+            "cast": [
+                "Virat Kohli, Angelo Mathews, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 113
+        },
+        {
+            "title": "India vs West Indies - 2019 ODI Series",
+            "description": "A thrilling ODI series featuring India and West Indies, showcasing top cricket talent.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.6,
+            "duration": "3 hours",
+            "release_date": "2019-08-08",
+            "cast": [
+                "Virat Kohli, Kieron Pollard, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 114
+        },
+        {
+            "title": "India vs Australia - 2020 T20 Series",
+            "description": "A thrilling T20 series between India and Australia, filled with explosive performances.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.9,
+            "duration": "2 hours",
+            "release_date": "2020-12-04",
+            "cast": [
+                "Virat Kohli, Aaron Finch, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 115
+        },
+        {
+            "title": "India vs England - 2021 T20 Series",
+            "description": "An exciting T20 series between India and England, showcasing thrilling matches.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.5,
+            "duration": "3 hours",
+            "release_date": "2021-03-12",
+            "cast": [
+                "Virat Kohli, Eoin Morgan, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 116
+        },
+        {
+            "title": "India vs New Zealand - 2020 ODI Series",
+            "description": "A thrilling ODI series between India and New Zealand, featuring intense competition.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.4,
+            "duration": "3 hours",
+            "release_date": "2020-01-24",
+            "cast": [
+                "Virat Kohli, Kane Williamson, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 117
+        },
+        {
+            "title": "India vs South Africa - 2018 Test Series",
+            "description": "A challenging Test series in South Africa, showcasing India's resilience.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.3,
+            "duration": "3 hours",
+            "release_date": "2018-01-05",
+            "cast": [
+                "Virat Kohli, Faf du Plessis, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 118
+        },
+        {
+            "title": "India vs Sri Lanka - 2018 ODI Series",
+            "description": "An exciting ODI series between India and Sri Lanka, featuring thrilling matches.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.2,
+            "duration": "3 hours",
+            "release_date": "2018-08-10",
+            "cast": [
+                "Virat Kohli, Angelo Mathews, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 119
+        },
+        {
+            "title": "India vs West Indies - 2019 ODI Series",
+            "description": "A thrilling ODI series featuring India and West Indies, showcasing top cricket talent.",
+            "language": "English",
+            "director": "N/A",
+            "genre": "Sport, Cricket",
+            "featured": true,
+            "rating": 8.6,
+            "duration": "3 hours",
+            "release_date": "2019-08-08",
+            "cast": [
+                "Virat Kohli, Kieron Pollard, Jasprit Bumrah"
+            ],
+            "image_url": "https://www.espncricinfo.com/db/PICTURES/CMS/313000/313066.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=8c8g0g0g0g0",
+            "country": "India",
+            "id": 120
         }
     ]
 }
